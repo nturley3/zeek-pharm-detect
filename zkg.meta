@@ -1,0 +1,5 @@
+[package]
+description = Detects potentially defaced or compromised HTTP sites containing generic pharmacy references.
+tags = http
+script_dir = scripts
+version = 1.0.1
